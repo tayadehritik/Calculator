@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/kali/.android/build-cache/dd60055dd0fbcd1572090681e43d3d5600c4f91b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/kali/AndroidStudioProjects/First/app/build/intermediates/pre-dexed/debug/classes_64ab83991bdfe9591271a9df7b980f3c67086866.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kali/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/kali/AndroidStudioProjects/First/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_d37e267df69f0ccf0956a325a631a8451a2cecc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kali/.android/build-cache/cab007c52d7ee7350e2db80fe47566027ccb567c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/kali/AndroidStudioProjects/First/app/build/intermediates/pre-dexed/debug/classes_9c8079789bd8a0d83acdf25e9ab76eace6ea7bd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kali/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/kali/AndroidStudioProjects/First/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_25a81e214994f59cf4d4861916a11cfd033d2b51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kali/.android/build-cache/a3b439c133b6a7dd54ad256024ff6dbeeac9c4ef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/kali/AndroidStudioProjects/First/app/build/intermediates/pre-dexed/debug/classes_ec5460d6d60b2bbea556f5bebde892a7d991fa3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kali/.android/build-cache/2cacf2037044343afd74ac307f643b01f1370b43/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/kali/AndroidStudioProjects/First/app/build/intermediates/pre-dexed/debug/classes_2d427df456ebc1dfceab6880a5a6a0883ab351b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kali/.android/build-cache/dc66961f62764afa049484fce806b9a2566f5064/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/kali/AndroidStudioProjects/First/app/build/intermediates/pre-dexed/debug/classes_090fa45ef9a8ef021fba880cfc25dc2ca330b763.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kali/.android/build-cache/be99717af65b0ad73db95fab369d50d2c9c29cd3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/kali/AndroidStudioProjects/First/app/build/intermediates/pre-dexed/debug/classes_a3fed63d3f4d0d8f5d80b25be7cd315aa7699bcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kali/.android/build-cache/14a40c2aa8f5b3a545c60df7f57e16b2e6370287/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/kali/AndroidStudioProjects/First/app/build/intermediates/pre-dexed/debug/classes_6fb178b7a30797009b70746f951a9614e914885c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kali/.android/build-cache/8a8c1640d608b02fd8e852ad5b6e61a50ae405bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/kali/AndroidStudioProjects/First/app/build/intermediates/pre-dexed/debug/classes_c3b9e22302c67dd8b02ca952070c13966ec904a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kali/.android/build-cache/32c62aa3349060a74721b5c2d3e94b7447cd8f2a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/kali/AndroidStudioProjects/First/app/build/intermediates/pre-dexed/debug/classes_4a11c43d7de519ddd12b32633b19351b76c10d46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kali/AndroidStudioProjects/First/app/libs/jsr223.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1f7b65bf95cfb09514802d57424c23f07fc33096">
+        <dex dex="/home/kali/AndroidStudioProjects/First/app/build/intermediates/pre-dexed/debug/jsr223_1dad06c9803b115db21cecb84f219206898a0960.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kali/AndroidStudioProjects/First/app/libs/towel-v1.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="191152791cce16f674682e1c712c56d6471445e7">
+        <dex dex="/home/kali/AndroidStudioProjects/First/app/build/intermediates/pre-dexed/debug/towel-v1.2.2_1afcfe9b89c99787bc009795b4416e7d936b499a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kali/.android/build-cache/e6baf696668d6ac851fafb0bd1b2624fea4abb9c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/kali/AndroidStudioProjects/First/app/build/intermediates/pre-dexed/debug/classes_f3bd15b8785fa7f55ebaf073fcec3bb12dc19555.jar" />
+    </item>
+
+</items>
