@@ -1,2 +1,2 @@
-# Task-Init
-Just a task scheduler.
+# Calculator
+Just a Calculator.
